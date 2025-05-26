@@ -1,6 +1,8 @@
 /*
   ##Programado por Fredy Osorio em 01/2025 para o LOEM PUC-Rio.
   ing.fredyosorio@gmail.com
+  
+  ## Disponivel em Github https://github.com/fr3dyos/PUC-LOEM-Flex
   ## Sistema de Controle de Motor de Passo Arduino
 
   Este sketch Arduino implementa um sistema versátil de controle de motor de passo com as seguintes características:
